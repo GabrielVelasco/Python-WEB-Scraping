@@ -2,17 +2,9 @@
 # https://www.linkedin.com/in/kaio-souza/overlay/photo/
 # https://www.linkedin.com/in/user-name/overlay/photo/
 
-from ast import Break
-from cgi import print_arguments
-from gettext import find
-from sre_constants import BRANCH
-from attr import attr, attrs
 from selenium import webdriver
-from bs4 import BeautifulSoup
-from pprint import pprint
-from selenium.webdriver.common.keys import Keys
+from bs4 import BeautifulSou
 import time
-import json
 import re
 
 # used to get someones Linked-in profile pic

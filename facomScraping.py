@@ -1,12 +1,5 @@
-from ast import Break
-from cgi import print_arguments
-from gettext import find
-from lib2to3.pgen2.driver import Driver
-from sre_constants import BRANCH
-from attr import attr, attrs
 from selenium import webdriver
 from bs4 import BeautifulSoup
-from pprint import pprint
 import json
 import re
 import time
