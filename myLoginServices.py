@@ -7,9 +7,10 @@ from bs4 import BeautifulSou
 import time
 import re
 
-# used to get someones Linked-in profile pic
+def loginIntoLinkedIn():
+    # logs into a linkedIn account
+    # returns the driver logged in into that account
 
-def doLogin():
     browser = webdriver.Firefox()
     browser.get("https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin");
     time.sleep(10)
@@ -31,7 +32,8 @@ def doLogin():
     return browser
 
 def getImgTagSrc(linkedinUserName, browser):
-    # ja logado, posso visitar perfis q tiver linkedin
+    # browser is logged into an account
+    # returns the profile pic src
     
     browser.get(f'https://www.linkedin.com/in/{linkedinUserName}/overlay/photo/')
     time.sleep(10)

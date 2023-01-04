@@ -3,10 +3,13 @@ from bs4 import BeautifulSoup
 import json
 import re
 import time
-import loginTest
+
+# import modules to use it's functions
+from myLoginServices import loginIntoLinkedIn
+from myLoginServices import getImgTagSrc
 
 def generateFacom():
-    loginBrowser = loginTest.doLogin()
+    loginBrowser = loginIntoLinkedIn()
 
     facomUrl = "https://facom.ufu.br/facom/equipe/corpo-docente"
     driver = webdriver.Firefox()
@@ -51,8 +54,7 @@ def generateFacom():
                     break
 
             # linkedInUserName = "kaio-souza"
-            imgUrl = loginTest.getImgTagSrc(linkedInUserName, loginBrowser)
-            print(f'User: {imgUrl}')
+            imgUrl = getImgTagSrc(linkedInUserName, loginBrowser)
 
         professors[nameContainer.text] = {
             "info": infos,

@@ -1,7 +1,7 @@
 ##################################################################################
-#										 #
-#				THIS IS A MODEL TO BE EDITED                     #	
-#										 #
+#										 
+#				THIS IS A MODEL TO BE EDITED                     
+#										
 ##################################################################################
 
 from ast import Break
@@ -12,13 +12,12 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 from pprint import pprint
 import json
-# import panda as pd
 
 driver = webdriver.Firefox()
 
-def generateFacom():
-    facomUrl = "file:///home/gabriel1908/OneDrive/Documents/Prog/WEB/webScrap/simple.html"
-    driver.get(facomUrl)
+def doScraping():
+    urlToScrap = "file:///home/gabriel1908/OneDrive/Documents/Prog/WEB/webScrap/simple.html"
+    driver.get(urlToScrap)
     professors = {}
 
     htmlContent = driver.page_source
@@ -44,4 +43,4 @@ def generateFacom():
         profJson = json.dumps(professors, indent = 3) # aprse PY dict to JSON
         profJsonFile.write(profJson)
 
-generateFacom()
+doScraping()
