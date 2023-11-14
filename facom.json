@@ -1,404 +1,416 @@
-{
-   "Alessandra Aparecida Paulino": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+[
+   {
+      "name": "Adriano Mendonça Rocha",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
+      "google": "None",
+      "linkedin": "None"
+   },
+   {
+      "name": "Alessandra Aparecida Paulino",
+      "infos": "Sistemas de Informação Campus Monte Carmelo / Programa de Pós-Graduação em Computação",
       "google": "https://sites.google.com/view/alessandrapaulino",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Alexsandro Santos Soares": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Alexsandro Santos Soares",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/alexsandro-soares-b0482b32/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQErmcepa_tu9A/profile-displayphoto-shrink_100_100/0/1613298907704?e=1661990400&v=beta&t=ev18_kB_pfBiG-A52WsWosuX0o1rgGq5FcDOAp2YNjA"
+      "linkedin": "https://www.linkedin.com/in/alexsandro-soares-b0482b32/"
    },
-   "Ana Cl\u00e1udia Martinez": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Amanda Cristina Davi Resende",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Anderson Rodrigues dos Santos": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Ana Cláudia Martinez",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Andr\u00e9 Ricardo Backes": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Anderson Rodrigues dos Santos",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Anilton Joaquim da Silva": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
-      "google": "None",
-      "linkedin": "None",
-      "picture": ""
-   },
-   "Autran Macedo": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
-      "google": "None",
-      "linkedin": "None",
-      "picture": ""
-   },
-   "Bruno Augusto Nassif Traven\u00e7olo": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Bruno Augusto Nassif Travençolo",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "https://sites.google.com/view/travencolo/home",
-      "linkedin": "http://www.linkedin.com/in/travencolo",
-      "picture": "None"
+      "linkedin": "http://www.linkedin.com/in/travencolo"
    },
-   "Carlos Cesar Mansur Tuma": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Caio Augusto Rodrigues dos Santos",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Carlos Roberto Lopes": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Carlos Cesar Mansur Tuma",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Christiane Regina Soares Brasil": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Carlos Roberto Lopes",
+      "infos": "Ciência da Computação / Programa de Pós-Graduação em Computação",
+      "google": "None",
+      "linkedin": "None"
+   },
+   {
+      "name": "Christiane Regina Soares Brasil",
+      "infos": "Sistemas de Informação Campus Santa Mônica",
       "google": "https://sites.google.com/site/christianersbrasil/",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Cl\u00e1udio Camargo Rodrigues": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Cláudio Camargo Rodrigues",
+      "infos": "Ciência da Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Daniel Ant\u00f4nio Furtado": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Daniel Antônio Furtado",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Daniel Duarte Abdala": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Daniel Duarte Abdala",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/daniel-duarte-abdala-45bb161b/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFf1XtdTNTaBQ/profile-displayphoto-shrink_800_800/0/1516883157140?e=1661990400&v=beta&t=FN21FiSB4_f-QNri5ivQa-dw03R20LLo9NzqBau_6EY"
+      "linkedin": "https://www.linkedin.com/in/daniel-duarte-abdala-45bb161b/"
    },
-   "Daniele Carvalho Oliveira": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Daniel Stefany Duarte Caetano",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "https://www.linkedin.com/in/sdcdaniel/"
    },
-   "Dino Rog\u00e9rio Coinete Franklin": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Daniela Justiniano de Sousa",
+      "infos": "Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Elaine Ribeiro de Faria Paiva": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Daniele Carvalho Oliveira",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Eliana Pantale\u00e3o": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Diego Nunes Molinos",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/eliana-pantaleao-a39595/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQHaRL9hkS355w/profile-displayphoto-shrink_800_800/0/1518125915989?e=1661990400&v=beta&t=ZXCN-VyxarTSMo3fBsu6Bi5nY3RgcyVMutXg1El07I0"
+      "linkedin": "https://www.linkedin.com/in/diego-molinos-5795b333/"
    },
-   "Fabiano Azevedo Dor\u00e7a": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Dino Rogério Coinete Franklin",
+      "infos": "Ciência da Computação / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Fab\u00edola Souza Fernandes Pereira": {
-      "info": "None",
+   {
+      "name": "Elaine Ribeiro de Faria Paiva",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
+      "google": "None",
+      "linkedin": "None"
+   },
+   {
+      "name": "Eliana Pantaleão",
+      "infos": "Ciência da Computação",
+      "google": "None",
+      "linkedin": "https://www.linkedin.com/in/eliana-pantaleao-a39595/"
+   },
+   {
+      "name": "Fabiano Azevedo Dorça",
+      "infos": "Ciência da Computação / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
+      "google": "None",
+      "linkedin": "None"
+   },
+   {
+      "name": "Fabíola Souza Fernandes Pereira",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "https://sites.google.com/site/fabiolasfpereira/",
-      "linkedin": "https://www.linkedin.com/in/fab%C3%ADola-pereira-b1417211/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQF1wZw6ORHKhw/profile-displayphoto-shrink_800_800/0/1517747760975?e=1661990400&v=beta&t=hzjoW6Swr_pBMnbUW5_LRJVyQUuW7jMijXcV9eGzo-M"
+      "linkedin": "https://www.linkedin.com/in/fab%C3%ADola-pereira-b1417211/"
    },
-   "Fernanda Maria da Cunha Santos": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Fernanda Maria da Cunha Santos",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "https://www.linkedin.com/in/fernanda-maria-cunha-santos-aaa14470/"
    },
-   "Fl\u00e1vio de Oliveira Silva": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Flávio de Oliveira Silva",
+      "infos": "Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "https://www.linkedin.com/in/flaviooliveirasilva/"
    },
-   "Gina Maira Barbosa de Oliveira": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Gina Maira Barbosa de Oliveira",
+      "infos": "Ciência da Computação / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Henrique Coelho Fernandes": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Henrique Coelho Fernandes",
+      "infos": "Ciência da Computação / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/henrique-fernandes-b6ab7316/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFwluZRe6wq_g/profile-displayphoto-shrink_800_800/0/1605389951290?e=1661990400&v=beta&t=oeeH4f8rBPFuMbsvVznGgX-HN59n5d_a8EYdsbPiOdQ"
+      "linkedin": "https://www.linkedin.com/in/henrique-fernandes-b6ab7316/"
    },
-   "Humberto Luiz Razente": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Humberto Luiz Razente",
+      "infos": "Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Ilm\u00e9rio Reis da Silva": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Ilmério Reis da Silva",
+      "infos": "Ciência da Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/ilmerio-silva/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQEZtAKFmP4jcw/profile-displayphoto-shrink_800_800/0/1517234219304?e=1661990400&v=beta&t=6SEZMcKpnEyWsSx0sEUIRg5uP3A6Vi6-WP87xCXYVbQ"
+      "linkedin": "https://www.linkedin.com/in/ilmerio-silva/"
    },
-   "Ivan da Silva Sendin": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Ivan da Silva Sendin",
+      "infos": "Ciência da Computação / Especialização da Unidade Acadêmica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Jamil Salem Barbar": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Jamil Salem Barbar",
+      "infos": "None",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Jefferson Rodrigo de Souza": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Jefferson Rodrigo de Souza",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "https://sites.google.com/site/jrsouzape/",
-      "linkedin": "https://www.linkedin.com/in/jrsouzape",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQG2DntTn7Db8Q/profile-displayphoto-shrink_800_800/0/1517346538647?e=1661990400&v=beta&t=Rz30b0QHE0MWLbalOG7-d8hFsbvO4rfNPOpLk9-1-qU"
+      "linkedin": "https://www.linkedin.com/in/jrsouzape"
    },
-   "Jo\u00e3o Batista Sim\u00e3o": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "João Batista Simão",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Jo\u00e3o Henrique de Souza Pereira": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "João Henrique de Souza Pereira",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Jos\u00e9 Gustavo de Souza Paiva": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "José Gustavo de Souza Paiva",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "L\u00e1saro Jonas Camargos": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Júlia Tannús de Souza",
+      "infos": "None",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/lasaro/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5103AQHQzGdgc_hHDQ/profile-displayphoto-shrink_800_800/0/1516290017922?e=1661990400&v=beta&t=EUcANhJOCWjERk5uf_g5UYrY8CB_OInAhBnb7kKVAIg"
+      "linkedin": "None"
    },
-   "Laurence Rodrigues do Amaral": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Laurence Rodrigues do Amaral",
+      "infos": "Ciência da Computação / Programa de Pós-Graduação em Computação",
       "google": "https://sites.google.com/site/laurenceamaral",
-      "linkedin": "https://www.linkedin.com/in/laurence-amaral",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEeuZQEC4wQOA/profile-displayphoto-shrink_800_800/0/1561407592233?e=1661990400&v=beta&t=aJo5eSZtz3xpje_bMaoznFatiE3eGT7f38oLB_42zgE"
+      "linkedin": "https://www.linkedin.com/in/laurence-amaral"
    },
-   "Leandro Nogueira Couto": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Leandro Nogueira Couto",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Lu\u00eds Fernando Faina": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Luís Fernando Faina",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Luiz Cl\u00e1udio Theodoro": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Luiz Cláudio Theodoro",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Luiz Gustavo Almeida Martins": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Luiz Fernando Afra Brito",
+      "infos": "Ciência da Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/lgamartins",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEGxDQPIonZvQ/profile-displayphoto-shrink_800_800/0/1516439868744?e=1661990400&v=beta&t=y8RBs-NLUSmri6NLTMkO4SoLKOpdz-57gl1h8Zp_p3g"
+      "linkedin": "None"
    },
-   "Marcelo de Almeida Maia": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Luiz Gustavo Almeida Martins",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/marcelo-maia-65632a31/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFL1HbW4-aPAg/profile-displayphoto-shrink_800_800/0/1559677287752?e=1661990400&v=beta&t=WbIdFMhLUapggBkbVOjeTa_NsdPyWyqQ_ywrs9h-998"
+      "linkedin": "https://www.linkedin.com/in/lgamartins"
    },
-   "Marcelo Keese Albertini": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Marcelo de Almeida Maia",
+      "infos": "Ciência da Computação / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
+      "google": "None",
+      "linkedin": "https://www.linkedin.com/in/marcelo-maia-65632a31/"
+   },
+   {
+      "name": "Marcelo Keese Albertini",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwig2puNuq_pAhXxIbkGHZhuBukQFjAAegQIEBAB&url=https%3A//br.linkedin.com/in/marcelo-keese-albertini-0546359&usg=AOvVaw0LVO6fufEzKRTl-jTrYg79",
-      "linkedin": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwig2puNuq_pAhXxIbkGHZhuBukQFjAAegQIEBAB&url=https%3A//br.linkedin.com/in/marcelo-keese-albertini-0546359&usg=AOvVaw0LVO6fufEzKRTl-jTrYg79",
-      "picture": "None"
+      "linkedin": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwig2puNuq_pAhXxIbkGHZhuBukQFjAAegQIEBAB&url=https%3A//br.linkedin.com/in/marcelo-keese-albertini-0546359&usg=AOvVaw0LVO6fufEzKRTl-jTrYg79"
    },
-   "Marcelo Zanchetta do Nascimento": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Marcelo Zanchetta do Nascimento",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/marcelo-nascimento-15b156b9/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEM1HXZeO7nOA/profile-displayphoto-shrink_800_800/0/1516886664461?e=1661990400&v=beta&t=_jjXPCDjbgOMcNSQA0Cs2G5pf7pFncC2PA8RbNHBoZ4"
+      "linkedin": "https://www.linkedin.com/in/marcelo-nascimento-15b156b9/"
    },
-   "M\u00e1rcia Aparecida Fernandes": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Márcia Aparecida Fernandes",
+      "infos": "Ciência da Computação / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Maria Adriana Vidigal de Lima": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Maria Adriana Vidigal de Lima",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/maria-adriana-vidigal-de-lima-38457215/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFAl9DdRr5Eow/profile-displayphoto-shrink_800_800/0/1546414586796?e=1661990400&v=beta&t=Jg89nPAtJQDxTKLG-eVkcAAlMZ3wBlZLKGfCM5lAzEg"
+      "linkedin": "https://www.linkedin.com/in/maria-adriana-vidigal-de-lima-38457215/"
    },
-   "Maria Camila Nardini Barioni": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Maria Camila Nardini Barioni",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Mauricio Cunha Escarpinati": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Mauricio Cunha Escarpinati",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/mauricio-escarpinati-39692033/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQHE1XvGH35Sjg/profile-displayphoto-shrink_800_800/0/1516542575653?e=1661990400&v=beta&t=lBxKF230S2SEqvb8YImUSEKGkmDrQy2XrPGFSN5v2_Y"
+      "linkedin": "https://www.linkedin.com/in/mauricio-escarpinati-39692033/"
    },
-   "Mirella Silva Junqueira": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Mirella Silva Junqueira",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Murillo Guimar\u00e3es Carneiro": {
-      "info": "Gradua\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Murillo Guimarães Carneiro",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Paulo Henrique Ribeiro Gabriel": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Paulo Henrique Ribeiro Gabriel",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "https://sites.google.com/view/paulohrgabriel",
-      "linkedin": "https://www.linkedin.com/in/paulohrgabriel/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQGHJeWFl0lYkg/profile-displayphoto-shrink_800_800/0/1577541996273?e=1661990400&v=beta&t=h33wwSGwjPp1IqYheuTfUOSVKg8mfse2n6QeUvRC-xQ"
+      "linkedin": "https://www.linkedin.com/in/paulohrgabriel/"
    },
-   "Paulo Rodolfo da Silva Leite Coelho": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Paulo Rodolfo da Silva Leite Coelho",
+      "infos": "Ciência da Computação / Especialização da Unidade Acadêmica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Pedro Frosi Rosa": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Pedro Frosi Rosa",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/pedro-frosi-rosa-5403a9128/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQF9Qo4ST1qabA/profile-displayphoto-shrink_800_800/0/1517057225929?e=1661990400&v=beta&t=nnArpKlkMeF2zvSlkJ1L9-_78NkQ93RO5J1u6vawQKE"
+      "linkedin": "https://www.linkedin.com/in/pedro-frosi-rosa-5403a9128/"
    },
-   "Rafael Dias Ara\u00fajo": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Rafael Dias Araújo",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/rdaraujo/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQH4wUZbpbsq0Q/profile-displayphoto-shrink_800_800/0/1516534559182?e=1661990400&v=beta&t=-XmGTRW8nEm-srUpviM7HGMnhuzB4VCDvpGb4NyWHa8"
+      "linkedin": "https://www.linkedin.com/in/rdaraujo/"
    },
-   "Rafael Pasquini": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Rafael Pasquini",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "http://br.linkedin.com/pub/rafael-pasquini/4/b84/52",
-      "picture": "None"
+      "linkedin": "http://br.linkedin.com/pub/rafael-pasquini/4/b84/52"
    },
-   "Renan Gon\u00e7alves Cattelan": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Renan Gonçalves Cattelan",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/renancattelan/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQEU_qqoTwkaYA/profile-displayphoto-shrink_800_800/0/1517669746812?e=1661990400&v=beta&t=SBXLrwwE_31UwVXXGGxgvp1hzO6RRPn0_TVBg6uMRYg"
+      "linkedin": "https://www.linkedin.com/in/renancattelan/"
    },
-   "Renato Aparecido Pimentel da Silva": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Renato Aparecido Pimentel da Silva",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Renato de Aquino Lopes": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Renato de Aquino Lopes",
+      "infos": "Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Rita Maria da Silva Julia": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Rita Maria da Silva Julia",
+      "infos": "Ciência da Computação / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Rivalino Matias J\u00fanior": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Rivalino Matias Júnior",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Rodrigo Sanches Miani": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
+   {
+      "name": "Rodrigo Sanches Miani",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "https://sites.google.com/view/miani/",
-      "linkedin": "https://www.linkedin.com/in/rodrigo-miani-691a5b141/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFWKGLqGcjNDQ/profile-displayphoto-shrink_800_800/0/1569188393234?e=1661990400&v=beta&t=J1c6vLcaKRkrhj3NHqqdRiK6eL3hjrk0dMPx0hs3JhU"
+      "linkedin": "https://www.linkedin.com/in/rodrigo-miani-691a5b141/"
    },
-   "Ronaldo Castro de Oliveira": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Ronaldo Castro de Oliveira",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Especialização da Unidade Acadêmica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Shigueo Nomura": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Shigueo Nomura",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "https://www.linkedin.com/in/shigueo-nomura-b5222833/",
-      "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQErmcepa_tu9A/profile-displayphoto-shrink_100_100/0/1613298907704?e=1661990400&v=beta&t=ev18_kB_pfBiG-A52WsWosuX0o1rgGq5FcDOAp2YNjA"
+      "linkedin": "https://www.linkedin.com/in/shigueo-nomura-b5222833/"
    },
-   "Silvio Bacala J\u00fanior": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Programa de P\u00f3s-Gradua\u00e7\u00e3o em Computa\u00e7\u00e3o",
+   {
+      "name": "Stéphane Julia",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Silvio Ereno Quincozes": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Thiago Henrique Pereira Silva",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "https://br.linkedin.com/in/sequincozes",
-      "picture": "None"
+      "linkedin": "None"
    },
-   "St\u00e9phane Julia": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o",
+   {
+      "name": "Thiago Pirola Ribeiro",
+      "infos": "Sistemas de Informação Campus Monte Carmelo / Especialização da Unidade Acadêmica / Programa de Pós-Graduação em Computação",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "https://www.linkedin.com/in/thiago-pirola-ab452a18a"
    },
-   "Thiago Pirola Ribeiro": {
-      "info": "Sistemas de Informa\u00e7\u00e3o Campus Monte Carmelo",
+   {
+      "name": "Victor Sobreira",
+      "infos": "Sistemas de Informação Campus Monte Carmelo",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    },
-   "Victor Sobreira": {
-      "info": "None",
+   {
+      "name": "Wendel Alexandre Xavier de Melo",
+      "infos": "Ciência da Computação / Sistemas de Informação Campus Santa Mônica",
       "google": "None",
-      "linkedin": "None",
-      "picture": ""
-   },
-   "Wendel Alexandre Xavier de Melo": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
-      "google": "None",
-      "linkedin": "None",
-      "picture": ""
-   },
-   "William Chaves de Souza Carvalho": {
-      "info": "Ci\u00eancia da Computa\u00e7\u00e3o / Sistemas de Informa\u00e7\u00e3o Campus Santa M\u00f4nica",
-      "google": "None",
-      "linkedin": "None",
-      "picture": ""
+      "linkedin": "None"
    }
-}
+]
